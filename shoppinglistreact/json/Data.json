@@ -2,7 +2,7 @@
     "general": {
         "server": "https://shoppinglistsaharserver.herokuapp.com",
         "server2": "https://shoppinglistsaharserver.glitch.me",
-        "images": "https://raw.githubusercontent.com/SaHaRzZz/test/main/imgs/",
+        "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
         "version": 11.1
     },
     "he": {
