@@ -52,7 +52,8 @@
             "מחק",
             "הכן הערה",
             "ליצור רשימה מקוונת",
-            "אירעה שגיאה"
+            "אירעה שגיאה",
+            "חיפוש מוצר"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "פרווה"}},
@@ -372,7 +373,8 @@
             "Delete",
             "Create note",
             "Create an online list",
-            "An error occured"
+            "An error occured",
+            "Product search"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"type": "parve"}},
