@@ -53,7 +53,10 @@
             "הכן הערה",
             "ליצור רשימה מקוונת",
             "אירעה שגיאה",
-            "חיפוש מוצר"
+            "חיפוש מוצר",
+            "פרווה",
+            "חלבי",
+            "בשרי"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
@@ -374,7 +377,10 @@
             "Create note",
             "Create an online list",
             "An error occured",
-            "Product search"
+            "Product search",
+            "Parve",
+            "Milk",
+            "Meat"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
