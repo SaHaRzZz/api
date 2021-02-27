@@ -56,7 +56,10 @@
             "חיפוש מוצר",
             "פרווה",
             "חלבי",
-            "בשרי"
+            "בשרי",
+            "כשרות",
+            "סינון",
+            "מזער סינון"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
@@ -380,7 +383,10 @@
             "Product search",
             "Parve",
             "Milk",
-            "Meat"
+            "Meat",
+            "Kosher",
+            "Filter",
+            "Minimize filter"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
