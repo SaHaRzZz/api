@@ -59,7 +59,9 @@
             "בשרי",
             "כשרות",
             "סינון",
-            "מזער סינון"
+            "מזער סינון",
+            "קטגוריה",
+            "טקסט לדוגמא"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
@@ -386,7 +388,9 @@
             "Meat",
             "Kosher",
             "Filter",
-            "Minimize filter"
+            "Minimize filter",
+            "Category",
+            "Example Text"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
