@@ -61,7 +61,8 @@
             "סינון",
             "מזער סינון",
             "קטגוריה",
-            "טקסט לדוגמא"
+            "טקסט לדוגמא",
+            "הצג"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
@@ -390,7 +391,8 @@
             "Filter",
             "Minimize filter",
             "Category",
-            "Example Text"
+            "Example Text",
+            "Show"
         ],
         "items": [
             {"title": "rice", "category": "food", "filter": "1", "order": "00", "img": "1_400.png", "filters": {"kosher": "parve"}},
