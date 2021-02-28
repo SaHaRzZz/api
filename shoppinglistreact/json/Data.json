@@ -3,7 +3,7 @@
         "server": "https://shoppinglistsaharserver.herokuapp.com",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
-        "version": 13.2
+        "version": 13.3
     },
     "he": {
         "strings": [
@@ -328,7 +328,7 @@
             {"title": "סמרטוטים חד\"פ", "category": "היגיינה", "filter": "2", "order": "11", "img": "216_400.png", "filters": {"type": "house"}},
             {"title": "מסיר כתמים", "category": "היגיינה", "filter": "2", "order": "11", "img": "257_400.png", "filters": {"type": "house"}},
     
-            {"title": "תחליף milk", "category": "תינוק", "filter": "3", "order": "20", "img": "217_400.png", "filters": {"type": "general"}},
+            {"title": "תחליף חלב", "category": "תינוק", "filter": "3", "order": "20", "img": "217_400.png", "filters": {"type": "general"}},
             {"title": "גרבר", "category": "תינוק", "filter": "3", "order": "20", "img": "218_400.png", "filters": {"type": "general"}},
             {"title": "דייסה", "category": "תינוק", "filter": "3", "order": "20", "img": "219_400.png", "filters": {"type": "general"}},
             {"title": "חיתולים", "category": "תינוק", "filter": "3", "order": "20", "img": "220_400.png", "filters": {"type": "general"}},
