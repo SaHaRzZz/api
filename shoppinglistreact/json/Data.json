@@ -3,7 +3,7 @@
         "server": "https://shoppinglistsaharserver.herokuapp.com",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
-        "version": 13.7
+        "version": 13.8
     },
     "he": {
         "strings": [
@@ -62,7 +62,9 @@
             "מזער סינון",
             "קטגוריה",
             "טקסט לדוגמא",
-            "הצג"
+            "הצג",
+            "התחבר",
+            "העתק"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "id": "1", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
@@ -392,7 +394,9 @@
             "Minimize filter",
             "Category",
             "Example Text",
-            "Show"
+            "Show",
+            "Connect",
+            "Copy"
         ],
         "items": [
             {"title": "rice", "category": "food", "id": "1", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
