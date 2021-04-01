@@ -181,7 +181,7 @@
             {"title": "עוגיות", "category": "אוכל", "id": "170", "filters": {"type": "null", "kosher": ["parve", "milk"], "category": "food"}},
             {"title": "ממרח שוקולד", "category": "אוכל", "id": "251", "filters": {"type": "null", "kosher": ["parve", "milk"], "category": "food"}},
             {"title": "סילאן", "category": "אוכל", "id": "263", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
-            {"title": "פצפוצי אורז", "category": "אוכל", "filter": "1", "order": "01", "img": "264_400.png", "filters": {"type": "פרווה"}},
+            {"title": "פצפוצי אורז", "category": "אוכל", "id": "264", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
     
             {"title": "עוף", "category": "אוכל", "id": "49", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
             {"title": "חזה עוף", "category": "אוכל", "id": "238", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
@@ -517,7 +517,7 @@
             {"title": "cookies", "category": "food", "id": "170", "filters": {"type": "null", "kosher": ["parve", " milk"], "category": "food"}},
             {"title": "chocolate spread", "category": "food", "id": "251", "filters": {"type": "null", "kosher": ["parve", "milk"], "category": "food"}},
             {"title": "date honey", "category": "food", "id": "263", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
-            {"title": "rice crackers", "category": "food", "filter": "1", "order": "01", "img": "264_400.png", "filters": {"type": "parve"}},
+            {"title": "rice crackers", "category": "food", "id": "264", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
     
             {"title": "chicken", "category": "food", "id": "49", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
             {"title": "chicken breast", "category": "food", "id": "238", "filters": {"type": "null", "kosher": "meat", "category": "food"}} ,
