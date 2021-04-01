@@ -201,7 +201,7 @@
             {"title": "טונה", "category": "אוכל", "id": "26", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
             {"title": "סלמון מעושן", "category": "אוכל", "id": "261", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
     
-            {"title": "אורגנו", "category": "אוכל", "id": "74", "filters": {"type": "null", "kosher:": "parve", "category": "food"}},
+            {"title": "אורגנו", "category": "אוכל", "id": "74", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "אבקת שום", "category": "אוכל", "id": "75", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "בזיליקום", "category": "אוכל", "id": "76", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "בהרט לבישול", "category": "אוכל", "id": "77", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
