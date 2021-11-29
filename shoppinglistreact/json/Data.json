@@ -294,6 +294,7 @@
             {"title": "תפוח אדמה", "category": "אוכל", "id": "158", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "תפוז", "category": "אוכל", "id": "159", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "מלון", "category": "אוכל", "id": "262", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
+            {"title": "כרובית", "category": "אוכל", "id": "271", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
     
             {"title": "כוסות חד\"פ", "category": "אוכל", "order": "06", "id": "178", "filters": {"type": "accessories", "category": "food"}},
             {"title": "מפיות חד\"פ", "category": "אוכל", "order": "06", "id": "179", "filters": {"type": "accessories", "category": "food"}},
@@ -636,6 +637,7 @@
             {"title": "potato", "category": "food", "id": "158", "filters": {"type": "fruits and vegetables"} },
             {"title": "orange", "category": "food", "id": "159", "filters": {"type": "fruits and vegetables", "category": "food"}} ,
             {"title": "melon", "category": "food", "id": "262", "filters": {"type": "fruits and vegetables", "category": "food"}} ,
+            {"title": "cauliflower", "category": "food", "id": "271", "filters": {"type": "fruits and vegetables", "category": "food"}} ,
     
             {"title": "sharp cups", "category": "food", "order": "06", "id": "178", "filters": {"type": "accessories", "category": "food"}},
             {"title": "sharp napkins", "category": "food", "order": "06", "id": "179", "filters": {"type": "accessories", "category": "food"}},
