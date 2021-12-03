@@ -186,6 +186,7 @@
             {"title": "סילאן", "category": "אוכל", "id": "263", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "פצפוצי אורז", "category": "אוכל", "id": "264", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "חלווה", "category": "אוכל", "id": "269", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
+            {"title": "אשל", "category": "אוכל", "id": "272", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
     
             {"title": "עוף", "category": "אוכל", "id": "49", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
             {"title": "חזה עוף", "category": "אוכל", "id": "238", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
@@ -340,6 +341,7 @@
             {"title": "ספריי נגד חרקים", "category": "היגיינה", "id": "215", "filters": {"type": "house", "category": "hygiene"}},
             {"title": "סמרטוטים חד\"פ", "category": "היגיינה", "id": "216", "filters": {"type": "house", "category": "hygiene"}},
             {"title": "מסיר כתמים", "category": "היגיינה", "id": "257", "filters": {"type": "house", "category": "hygiene"}},
+            {"title": "נוזל הברקה למדיח", "category": "היגיינה", "id": "273", "filters": {"type": "house", "category": "hygiene"}},
     
             {"title": "תחליף חלב", "category": "תינוק", "id": "217", "filters": {"type": "general", "category": "baby"}},
             {"title": "גרבר", "category": "תינוק", "id": "218", "filters": {"type": "general", "category": "baby"}},
@@ -529,6 +531,7 @@
             {"title": "date honey", "category": "food", "id": "263", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "rice crackers", "category": "food", "id": "264", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "halva", "category": "food", "id": "269", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
+            {"title": "sour milk", "category": "food", "id": "272", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
     
             {"title": "chicken", "category": "food", "id": "49", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
             {"title": "chicken breast", "category": "food", "id": "238", "filters": {"type": "null", "kosher": "meat", "category": "food"}} ,
@@ -683,6 +686,7 @@
             {"title": "insect spray", "category": "hygiene", "id": "215", "filters": {"type": "home"} },
             {"title": "disposable rags", "category": "hygiene", "id": "216", "filters": {"type": "home", "category": "hygiene"}},
             {"title": "stain remover", "category": "hygiene", "id": "257", "filters": {"type": "home", "category": "hygiene"}},
+            {"title": "polishing liquid for dishwasher", "category": "hygiene", "id": "273", "filters": {"type": "home", "category": "hygiene"}},
     
             {"title": "milk substitute", "category": "baby", "id": "217", "filters": {"type": "general", "category": "baby"}} ,
             {"title": "gerber", "category": "baby", "id": "218", "filters": {"type": "general", "category": "baby"}},
