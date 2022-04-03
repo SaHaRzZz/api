@@ -159,6 +159,7 @@
             {"title": "עלי סיגר מרוקאי", "category": "אוכל", "id": "265", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "שקדי מרק", "category": "אוכל", "id": "270", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "קורנפלור", "category": "אוכל", "id": "274", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
+            {"title": "גריסים", "category": "אוכל", "id": "275", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
 
             {"title": "יוגורט", "category": "אוכל", "id": "233", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
             {"title": "גבינה בולגרית", "category": "אוכל", "id": "228", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
@@ -505,6 +506,7 @@
             {"title": "moroccan cigar leaves", "category": "food", "id": "265", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "soup almonds", "category": "food", "id": "270", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "cornflour", "category": "food", "id": "274", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
+            {"title": "groats", "category": "food", "id": "275", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
 
             {"title": "yogurt", "category": "food", "id": "233", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
             {"title": "bulgarian cheese", "category": "food", "id": "228", "filters": {"type": "null", "kosher": "milk", "category": "food"}} ,
