@@ -344,6 +344,7 @@
             {"title": "סמרטוטים חד\"פ", "category": "היגיינה", "id": "216", "filters": {"type": "house", "category": "hygiene"}},
             {"title": "מסיר כתמים", "category": "היגיינה", "id": "257", "filters": {"type": "house", "category": "hygiene"}},
             {"title": "נוזל הברקה למדיח", "category": "היגיינה", "id": "273", "filters": {"type": "house", "category": "hygiene"}},
+            {"title": "דוחה יתושים", "category": "היגיינה", "id": "276", "filters": {"type": "house", "category": "hygiene"}},
     
             {"title": "תחליף חלב", "category": "תינוק", "id": "217", "filters": {"type": "general", "category": "baby"}},
             {"title": "גרבר", "category": "תינוק", "id": "218", "filters": {"type": "general", "category": "baby"}},
@@ -691,6 +692,7 @@
             {"title": "disposable rags", "category": "hygiene", "id": "216", "filters": {"type": "home", "category": "hygiene"}},
             {"title": "stain remover", "category": "hygiene", "id": "257", "filters": {"type": "home", "category": "hygiene"}},
             {"title": "polishing liquid for dishwasher", "category": "hygiene", "id": "273", "filters": {"type": "home", "category": "hygiene"}},
+            {"title": "mosquito repellent", "category": "hygiene", "id": "276", "filters": {"type": "home", "category": "hygiene"}},
     
             {"title": "milk substitute", "category": "baby", "id": "217", "filters": {"type": "general", "category": "baby"}} ,
             {"title": "gerber", "category": "baby", "id": "218", "filters": {"type": "general", "category": "baby"}},
