@@ -350,7 +350,16 @@
             {"title": "גרבר", "category": "תינוק", "id": "218", "filters": {"type": "general", "category": "baby"}},
             {"title": "דייסה", "category": "תינוק", "id": "219", "filters": {"type": "general", "category": "baby"}},
             {"title": "חיתולים", "category": "תינוק", "id": "220", "filters": {"type": "general", "category": "baby"}},
-            {"title": "מגבונים", "category": "תינוק", "id": "221", "filters": {"type": "general", "category": "baby"}}
+
+            {"title": "אחר1", "category": "אחר", "order": "06", "id": "277", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר2", "category": "אחר", "order": "06", "id": "278", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר3", "category": "אחר", "order": "06", "id": "279", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר4", "category": "אחר", "order": "06", "id": "280", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר5", "category": "אחר", "order": "06", "id": "281", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר6", "category": "אחר", "order": "06", "id": "282", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר7", "category": "אחר", "order": "06", "id": "283", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר8", "category": "אחר", "order": "06", "id": "284", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר9", "category": "אחר", "order": "06", "id": "285", "filters": {"type": "null", "category": "other"}}
         ]
     },
     "en": {
@@ -699,6 +708,16 @@
             {"title": "porridge", "category": "baby", "id": "219", "filters": {"type": "general", "category": "baby"}},
             {"title": "diapers", "category": "baby", "id": "220", "filters": {"type": "general", "category": "baby"}},
             {"title": "wipes", "category": "baby", "id": "221", "filters": {"type": "general", "category": "baby"}}
+
+            {"title": "other1", "category": "other", "order": "06", "id": "277", "filters": {"type": "null", "category": "other"}},
+            {"title": "other2", "category": "other", "order": "06", "id": "278", "filters": {"type": "null", "category": "other"}},
+            {"title": "other3", "category": "other", "order": "06", "id": "279", "filters": {"type": "null", "category": "other"}},
+            {"title": "other4", "category": "other", "order": "06", "id": "280", "filters": {"type": "null", "category": "other"}},
+            {"title": "other5", "category": "other", "order": "06", "id": "281", "filters": {"type": "null", "category": "other"}},
+            {"title": "other6", "category": "other", "order": "06", "id": "282", "filters": {"type": "null", "category": "other"}},
+            {"title": "other7", "category": "other", "order": "06", "id": "283", "filters": {"type": "null", "category": "other"}},
+            {"title": "other8", "category": "other", "order": "06", "id": "284", "filters": {"type": "null", "category": "other"}},
+            {"title": "other9", "category": "other", "order": "06", "id": "285", "filters": {"type": "null", "category": "other"}}
         ]
     }
 }
