@@ -351,15 +351,15 @@
             {"title": "דייסה", "category": "תינוק", "id": "219", "filters": {"type": "general", "category": "baby"}},
             {"title": "חיתולים", "category": "תינוק", "id": "220", "filters": {"type": "general", "category": "baby"}},
 
-            {"title": "אחר1", "category": "אחר", "order": "06", "id": "277", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר2", "category": "אחר", "order": "06", "id": "278", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר3", "category": "אחר", "order": "06", "id": "279", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר4", "category": "אחר", "order": "06", "id": "280", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר5", "category": "אחר", "order": "06", "id": "281", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר6", "category": "אחר", "order": "06", "id": "282", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר7", "category": "אחר", "order": "06", "id": "283", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר8", "category": "אחר", "order": "06", "id": "284", "filters": {"type": "null", "category": "other"}},
-            {"title": "אחר9", "category": "אחר", "order": "06", "id": "285", "filters": {"type": "null", "category": "other"}}
+            {"title": "אחר1", "category": "אחר", "id": "277", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר2", "category": "אחר", "id": "278", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר3", "category": "אחר", "id": "279", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר4", "category": "אחר", "id": "280", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר5", "category": "אחר", "id": "281", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר6", "category": "אחר", "id": "282", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר7", "category": "אחר", "id": "283", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר8", "category": "אחר", "id": "284", "filters": {"type": "null", "category": "other"}},
+            {"title": "אחר9", "category": "אחר", "id": "285", "filters": {"type": "null", "category": "other"}}
         ]
     },
     "en": {
@@ -709,15 +709,15 @@
             {"title": "diapers", "category": "baby", "id": "220", "filters": {"type": "general", "category": "baby"}},
             {"title": "wipes", "category": "baby", "id": "221", "filters": {"type": "general", "category": "baby"}}
 
-            {"title": "other1", "category": "other", "order": "06", "id": "277", "filters": {"type": "null", "category": "other"}},
-            {"title": "other2", "category": "other", "order": "06", "id": "278", "filters": {"type": "null", "category": "other"}},
-            {"title": "other3", "category": "other", "order": "06", "id": "279", "filters": {"type": "null", "category": "other"}},
-            {"title": "other4", "category": "other", "order": "06", "id": "280", "filters": {"type": "null", "category": "other"}},
-            {"title": "other5", "category": "other", "order": "06", "id": "281", "filters": {"type": "null", "category": "other"}},
-            {"title": "other6", "category": "other", "order": "06", "id": "282", "filters": {"type": "null", "category": "other"}},
-            {"title": "other7", "category": "other", "order": "06", "id": "283", "filters": {"type": "null", "category": "other"}},
-            {"title": "other8", "category": "other", "order": "06", "id": "284", "filters": {"type": "null", "category": "other"}},
-            {"title": "other9", "category": "other", "order": "06", "id": "285", "filters": {"type": "null", "category": "other"}}
+            {"title": "other1", "category": "other", "id": "277", "filters": {"type": "null", "category": "other"}},
+            {"title": "other2", "category": "other", "id": "278", "filters": {"type": "null", "category": "other"}},
+            {"title": "other3", "category": "other", "id": "279", "filters": {"type": "null", "category": "other"}},
+            {"title": "other4", "category": "other", "id": "280", "filters": {"type": "null", "category": "other"}},
+            {"title": "other5", "category": "other", "id": "281", "filters": {"type": "null", "category": "other"}},
+            {"title": "other6", "category": "other", "id": "282", "filters": {"type": "null", "category": "other"}},
+            {"title": "other7", "category": "other", "id": "283", "filters": {"type": "null", "category": "other"}},
+            {"title": "other8", "category": "other", "id": "284", "filters": {"type": "null", "category": "other"}},
+            {"title": "other9", "category": "other", "id": "285", "filters": {"type": "null", "category": "other"}}
         ]
     }
 }
