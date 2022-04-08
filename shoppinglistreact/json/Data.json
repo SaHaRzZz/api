@@ -707,7 +707,7 @@
             {"title": "gerber", "category": "baby", "id": "218", "filters": {"type": "general", "category": "baby"}},
             {"title": "porridge", "category": "baby", "id": "219", "filters": {"type": "general", "category": "baby"}},
             {"title": "diapers", "category": "baby", "id": "220", "filters": {"type": "general", "category": "baby"}},
-            {"title": "wipes", "category": "baby", "id": "221", "filters": {"type": "general", "category": "baby"}}
+            {"title": "wipes", "category": "baby", "id": "221", "filters": {"type": "general", "category": "baby"}},
 
             {"title": "other1", "category": "other", "id": "277", "filters": {"type": "null", "category": "other"}},
             {"title": "other2", "category": "other", "id": "278", "filters": {"type": "null", "category": "other"}},
