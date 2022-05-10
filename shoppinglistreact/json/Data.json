@@ -189,6 +189,7 @@
             {"title": "פצפוצי אורז", "category": "אוכל", "id": "264", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "חלווה", "category": "אוכל", "id": "269", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "אשל", "category": "אוכל", "id": "272", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
+            {"title": "גבינה במרקם שמנת", "category": "אוכל", "id": "286", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
     
             {"title": "עוף", "category": "אוכל", "id": "49", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
             {"title": "חזה עוף", "category": "אוכל", "id": "238", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
@@ -546,6 +547,7 @@
             {"title": "rice crackers", "category": "food", "id": "264", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "halva", "category": "food", "id": "269", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
             {"title": "sour milk", "category": "food", "id": "272", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
+            {"title": "cream texture white cheese", "category": "food", "id": "286", "filters": {"type": "null", "kosher": "milk", "category": "food"}},
     
             {"title": "chicken", "category": "food", "id": "49", "filters": {"type": "null", "kosher": "meat", "category": "food"}},
             {"title": "chicken breast", "category": "food", "id": "238", "filters": {"type": "null", "kosher": "meat", "category": "food"}} ,
