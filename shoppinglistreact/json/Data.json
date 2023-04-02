@@ -65,7 +65,8 @@
             "הצג",
             "התחבר",
             "העתק",
-            "צבע רקע"
+            "צבע רקע",
+            "בחר צבע"
         ],
         "items": [
             {"title": "אורז", "category": "אוכל", "id": "1", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
@@ -425,7 +426,8 @@
             "Show",
             "Connect",
             "Copy",
-            "Background Color"
+            "Background Color",
+            "Select A Color"
         ],
         "items": [
             {"title": "rice", "category": "food", "id": "1", "filters": {"type": "null", "kosher": "parve", "category": "food"}},
