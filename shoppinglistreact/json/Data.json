@@ -3,7 +3,7 @@
         "server": "https://shoppinglistserverrailway-production.up.railway.app",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
-        "version": 14.1
+        "version": 14.2
     },
     "he": {
         "strings": [
