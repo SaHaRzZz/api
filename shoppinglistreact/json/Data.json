@@ -1,6 +1,6 @@
 {
     "general": {
-        "server": "sahar.ddns.net:34713",
+        "server": "http://sahar.ddns.net:34713",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
         "version": 14.2
