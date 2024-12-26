@@ -1,6 +1,6 @@
 {
     "general": {
-        "server": "https://151.145.84.21:3000",
+        "server": "https://151.145.84.21",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
         "version": 14.2
