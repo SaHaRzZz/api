@@ -1,6 +1,10 @@
 {
     "general": {
+<<<<<<< HEAD
         "server": "https://us-central1-sshoppinglist-43562.cloudfunctions.net/api",
+=======
+        "server": "https://sahar.ddns.net:3000",
+>>>>>>> 4928abf36f360536bf75d4ab485f373bbd5def18
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
         "version": 14.2
