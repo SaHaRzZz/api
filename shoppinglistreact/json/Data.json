@@ -3,7 +3,7 @@
         "server": "https://us-central1-sshoppinglist-43562.cloudfunctions.net/api",
         "server2": "https://shoppinglistsaharserver.glitch.me",
         "images": "https://raw.githubusercontent.com/SaHaRzZz/api/master/shoppinglistreact/imgs/",
-        "version": 14.2
+        "version": 15
     },
     "he": {
         "strings": [
